@@ -47,7 +47,7 @@ helpMessage =""" Myzumi Bot
 >Gn 「group name」
 >Nk 「name」
 
-#Command kicker only
+#Command admin only
 >Bye
 >Kill ban
 >Kill 「@」
